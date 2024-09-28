@@ -1,0 +1,17 @@
+{
+ "workbench.colorCustomizations": {
+        "[poimandres-storm]": {
+            // "tab.activeBorder": "#6d829e",
+            // "tab.unfocusedActiveBackground": "#40435080",
+            "terminal.border": "#bab5d4",
+            // "tab.hoverBackground": "#141414",
+            "panel.border": "#bab5d4",
+            "sideBar.border": "#bab5d4",
+            "editorHoverWidget.border": "#bab5d4",
+            "peekView.border": "#bab5d4",
+            "editorGroup.border": "#bab5d4",
+            "editor.selectionBackground": "#807f8ba1",
+            "list.inactiveSelectionBackground": "#313744"
+        },
+    },
+}
